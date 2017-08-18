@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-sw533dp-v13\\dialer.xml",
+        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-sw533dp\\dialer.xml"
+    },
+    {
+        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-sw533dp-v13\\main.xml",
+        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-sw533dp\\main.xml"
+    },
+    {
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-sw533dp-v13\\chatlist_cell.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\layout-sw533dp\\chatlist_cell.xml"
+    },
+    {
+        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-sw533dp-v13\\chatlist_cell.xml",
+        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-sw533dp\\chatlist_cell.xml"
+    },
+    {
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-sw533dp-v13\\main.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\layout-sw533dp\\main.xml"
+    },
+    {
+        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-sw533dp-v13\\assistant_codec_downloader.xml",
+        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-sw533dp\\assistant_codec_downloader.xml"
+    },
+    {
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-sw533dp-v13\\assistant_codec_downloader.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\layout-sw533dp\\assistant_codec_downloader.xml"
+    },
+    {
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-sw533dp-v13\\dialer.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\layout-sw533dp\\dialer.xml"
+    }
+]
