@@ -47,7 +47,6 @@ import android.os.Message;
 import android.provider.ContactsContract;
 import android.provider.ContactsContract.CommonDataKinds;
 import android.provider.ContactsContract.Data;
-
 interface ContactsUpdatedListener {
 	void onContactsUpdated();
 }

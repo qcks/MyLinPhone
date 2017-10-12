@@ -2,58 +2,49 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="G:\LinPhone\MyLinphone\libs\commons-compress-1.11.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="f43ce4c878078cbcfbb061353aa672a4c8e81443">
-        <dex dex="G:\LinPhone\MyLinphone\build\intermediates\pre-dexed\debug\commons-compress-1.11_9a98f37df8c8e111fc87ff2c306d6a218520c114.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="G:\LinPhone\Linphone\libs\android-support-v4.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
-        revision="23.0.0"
+        revision="26.0.0"
         sha1="fb6b7b885e8f62731e3f2fb9e64970e2d1d5ef5b">
-        <dex dex="G:\LinPhone\Linphone\build\intermediates\pre-dexed\debug\android-support-v4_77e95b73a8f704598c1dc925d5a6696e081400da.jar" />
+        <dex dex="G:\LinPhone\Linphone\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_77e95b73a8f704598c1dc925d5a6696e081400da\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="G:\LinPhone\MyLinphone\libs\gcm.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
-        <dex dex="G:\LinPhone\MyLinphone\build\intermediates\pre-dexed\debug\gcm_6cbccfedf15bea8997c3de73d295fd1ff435f1a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="G:\LinPhone\Linphone\libs\commons-compress-1.11.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.0"
-        sha1="f43ce4c878078cbcfbb061353aa672a4c8e81443">
-        <dex dex="G:\LinPhone\Linphone\build\intermediates\pre-dexed\debug\commons-compress-1.11_775e1bb2098a3612fa68fd83baaf7371391b5217.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="G:\LinPhone\Linphone\libs\gcm.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
-        revision="23.0.0"
+        revision="26.0.0"
         sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
-        <dex dex="G:\LinPhone\Linphone\build\intermediates\pre-dexed\debug\gcm_2a7f52aca92dd1f43745c5e8b772146b5f9bb9a6.jar" />
+        <dex dex="G:\LinPhone\Linphone\build\intermediates\transforms\dex\debug\folders\1000\2\gcm_2a7f52aca92dd1f43745c5e8b772146b5f9bb9a6\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="G:\LinPhone\MyLinphone\libs\android-support-v4.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="G:\LinPhone\Linphone\libs\commons-compress-1.11.jar"
+        jumboMode="true"
         optimize="true"
-        revision="23.0.0"
-        sha1="fb6b7b885e8f62731e3f2fb9e64970e2d1d5ef5b">
-        <dex dex="G:\LinPhone\MyLinphone\build\intermediates\pre-dexed\debug\android-support-v4_bab55b4f718d3fea57eea2e87a0df875d6c3100e.jar" />
+        revision="26.0.0"
+        sha1="f43ce4c878078cbcfbb061353aa672a4c8e81443">
+        <dex dex="G:\LinPhone\Linphone\build\intermediates\transforms\dex\debug\folders\1000\2\commons-compress-1.11_775e1bb2098a3612fa68fd83baaf7371391b5217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\LinPhone\Linphone\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f8501dfc7ab843c76150848bafb3cfdcff3af5c3">
+        <dex dex="G:\LinPhone\Linphone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3ee2e4893e8a1c298ae4736f4a9c009bee92048d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\LinPhone\Linphone\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fb19e458dfbd969b54671fbb10287234dc2fa67a">
+        <dex dex="G:\LinPhone\Linphone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_729bef8ec7177154e657f3836dbcf287a0e67f51\classes.dex" />
     </item>
 
 </items>

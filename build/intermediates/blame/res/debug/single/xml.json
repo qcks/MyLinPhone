@@ -1,9 +1,5 @@
 [
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\xml\\contacts.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\xml\\contacts.xml"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\xml\\syncadapter.xml"
     },
@@ -12,28 +8,12 @@
         "source": "G:\\LinPhone\\Linphone\\res\\xml\\contacts.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\xml\\account_preferences.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\xml\\account_preferences.xml"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\xml\\account_preferences.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\xml\\account_preferences.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\xml\\authenticator.xml"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\xml\\preferences.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\xml\\syncadapter.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\xml\\preferences.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",

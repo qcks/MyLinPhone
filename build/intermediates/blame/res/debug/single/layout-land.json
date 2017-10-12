@@ -1,15 +1,7 @@
 [
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\call_incoming.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\call_incoming.xml"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\video_no_opengl.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\video_no_opengl.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\chatlist_cell.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\chatlist_cell.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\video.xml",
@@ -20,20 +12,20 @@
         "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\assistant_codec_downloader.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\launch_screen.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\launch_screen.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\search_contact_cell.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\search_contact_cell.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\launch_screen.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\launch_screen.xml"
     },
     {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\dialer.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\dialer.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\main.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\call.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\call.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\dialer.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\dialer.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\call.xml",
@@ -48,48 +40,8 @@
         "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\call_incoming.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\about.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\about.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\main.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\video_no_opengl.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\video_no_opengl.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\call_outgoing.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\call_outgoing.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\search_contact_cell.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\search_contact_cell.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\main.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\search_contact_cell.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\search_contact_cell.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\assistant_codec_downloader.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\assistant_codec_downloader.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\video.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\video.xml"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\chatlist_cell.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\layout-land\\chatlist_cell.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\dialer.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\layout-land\\dialer.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\layout-land\\about.xml",

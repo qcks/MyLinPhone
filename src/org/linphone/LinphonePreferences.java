@@ -320,7 +320,7 @@ public class LinphonePreferences {
 			return this;
 		}
 
-		/**
+		/**创建一个新的帐户
 		 * Creates a new account
 		 * @throws LinphoneCoreException
 		 */

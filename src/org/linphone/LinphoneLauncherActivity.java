@@ -18,17 +18,17 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
 package org.linphone;
 
-import static android.content.Intent.ACTION_MAIN;
-
-import org.linphone.assistant.RemoteProvisioningActivity;
-import org.linphone.mediastream.Version;
-import org.linphone.tutorials.TutorialLauncherActivity;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.os.Handler;
+
+import org.linphone.assistant.RemoteProvisioningActivity;
+import org.linphone.mediastream.Version;
+import org.linphone.tutorials.TutorialLauncherActivity;
+
+import static android.content.Intent.ACTION_MAIN;
 
 /**
  * 
@@ -47,6 +47,7 @@ public class LinphoneLauncherActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		
 		// Hack to avoid to draw twice LinphoneActivity on tablets
+		// 避免在平板电脑上画两次LinphoneActivity
         if (getResources().getBoolean(R.bool.orientation_portrait_only)) {
 			setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 		}
@@ -67,7 +68,7 @@ public class LinphoneLauncherActivity extends Activity {
 	protected void onServiceReady() {
 		final Class<? extends Activity> classToStart;
 		if (getResources().getBoolean(R.bool.show_tutorials_instead_of_app)) {
-			classToStart = TutorialLauncherActivity.class;
+			classToStart = TutorialLauncherActivity.class;//教程
 		} else if (getResources().getBoolean(R.bool.display_sms_remote_provisioning_activity) && LinphonePreferences.instance().isFirstRemoteProvisioning()) {
 			classToStart = RemoteProvisioningActivity.class;
 		} else {

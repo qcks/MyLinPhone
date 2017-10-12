@@ -1,9 +1,5 @@
 [
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw-sw600dp-v13\\linphonerc_default",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw-sw600dp\\linphonerc_default"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\raw-sw600dp-v13\\linphonerc_default",
         "source": "G:\\LinPhone\\Linphone\\res\\raw-sw600dp\\linphonerc_default"
     }

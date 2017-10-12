@@ -8,32 +8,8 @@
         "source": "G:\\LinPhone\\Linphone\\res\\raw\\hold.mkv"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\lpconfig.xsd",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\lpconfig.xsd"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\linphonerc_default",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\linphonerc_default"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\raw\\incoming_chat.wav",
         "source": "G:\\LinPhone\\Linphone\\res\\raw\\incoming_chat.wav"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\rootca.pem",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\rootca.pem"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\ringback.wav",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\ringback.wav"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\hold.mkv",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\hold.mkv"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\linphonerc_factory",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\linphonerc_factory"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\raw\\notes_of_the_optimistic.mkv",
@@ -44,24 +20,12 @@
         "source": "G:\\LinPhone\\Linphone\\res\\raw\\lpconfig.xsd"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\incoming_chat.wav",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\incoming_chat.wav"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\notes_of_the_optimistic.mkv",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\notes_of_the_optimistic.mkv"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\raw\\rootca.pem",
         "source": "G:\\LinPhone\\Linphone\\res\\raw\\rootca.pem"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\raw\\ringback.wav",
         "source": "G:\\LinPhone\\Linphone\\res\\raw\\ringback.wav"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\raw\\oldphone_mono.wav",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\raw\\oldphone_mono.wav"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\raw\\linphonerc_default",

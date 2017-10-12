@@ -1,23 +1,19 @@
 [
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_four.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_four.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\list_delete.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\list_delete.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_six.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_six.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_zero.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_zero.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_zero.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_zero.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_one.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_one.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_three.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_three.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\options_add_call_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\options_add_call_button.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_nine.xml",
@@ -32,6 +28,10 @@
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\list_detail.xml"
     },
     {
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_file.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\chat_send_file.xml"
+    },
+    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\call.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\call.xml"
     },
@@ -40,12 +40,8 @@
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_sharp.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\history_missed.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\history_missed.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\list_delete.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\list_delete.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\speaker.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\history_missed.xml",
@@ -60,28 +56,12 @@
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_five.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\button_background.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\camera_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_camera.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\switch_camera.xml"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\hangup.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\hangup.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_add_button.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\contact_add_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\fast_scroll_preview.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\fast_scroll_preview.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_seven.xml",
@@ -92,12 +72,20 @@
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\button_background.xml"
     },
     {
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_button.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\delete_button.xml"
+    },
+    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\history_all.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\history_all.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_message.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\chat_send_message.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_list_button.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\edit_list_button.xml"
+    },
+    {
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\fast_scroll_preview.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\fast_scroll_preview.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_message.xml",
@@ -108,56 +96,56 @@
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_six.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\assistant_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\assistant_button.xml"
-    },
-    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_eight.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_eight.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\pause.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_button.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\camera_button.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\fast_scroll.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\fast_scroll.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_camera.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\switch_camera.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts_all.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\contacts_all.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\speaker.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\assistant_button_text_color.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\assistant_button_text_color.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\backspace.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\backspace.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\footer_button.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\options_transfer_call_button.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\options_transfer_call_button.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\chat.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\chat.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\options_add_call_button.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\options_add_call_button.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_two.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_two.xml"
     },
     {
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\chat.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\chat.xml"
+    },
+    {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\pause.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_two.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_two.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts_sip.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\contacts_sip.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_three.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_three.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\list_selector.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_button.xml",
@@ -168,36 +156,28 @@
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\options_start_conference_button.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_add_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\contact_add_button.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\fast_scroll.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\fast_scroll.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\hangup.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\hangup.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\options_transfer_call_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\options_transfer_call_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\assistant_button_text_color.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\assistant_button_text_color.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_button.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\footer_button.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\checkbox.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_file.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\chat_send_file.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\assistant_button.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\assistant_button.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\status_level.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\status_level.xml"
     },
     {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\quit.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\quit.xml"
+        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\micro.xml",
+        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\micro.xml"
     },
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\quit.xml",
@@ -210,177 +190,5 @@
     {
         "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_four.xml",
         "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_four.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_zero.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_zero.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\list_delete.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\list_delete.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_one.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\numpad_one.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\call.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\call.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\status_level.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\status_level.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_file.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\chat_send_file.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\list_detail.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\list_detail.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts_sip.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\contacts_sip.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\toolbar_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\speaker.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_seven.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_seven.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\dialer.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\dialer.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_button.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\delete_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_list_button.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\edit_list_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\fast_scroll_preview.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\fast_scroll_preview.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_nine.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_nine.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\options_start_conference_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\options_start_conference_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\history_all.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\history_all.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_button.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\camera_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_camera.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\switch_camera.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\assistant_button_text_color.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\assistant_button_text_color.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\list_selector.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_five.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_five.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\micro.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\micro.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\options_transfer_call_button.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\options_transfer_call_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\options_add_call_button.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\options_add_call_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\chat.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\chat.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_star_digit.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_star_digit.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts_sip.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\contacts_sip.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\checkbox.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\list_selector.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\delete_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_sharp.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_sharp.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\fast_scroll.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\fast_scroll.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_button.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\footer_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\assistant_button.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\assistant_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts_all.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\contacts_all.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_list_button.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\edit_list_button.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_burger.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\menu_burger.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\backspace.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\backspace.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_eight.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_eight.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\Linphone\\build\\intermediates\\res\\merged\\debug\\drawable\\micro.xml",
-        "source": "G:\\LinPhone\\Linphone\\res\\drawable\\micro.xml"
-    },
-    {
-        "merged": "G:\\LinPhone\\MyLinphone\\build\\intermediates\\res\\merged\\debug\\drawable\\numpad_one.xml",
-        "source": "G:\\LinPhone\\MyLinphone\\res\\drawable\\numpad_one.xml"
     }
 ]

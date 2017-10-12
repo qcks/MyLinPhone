@@ -18,11 +18,6 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-import org.linphone.core.LinphoneCore;
-import org.linphone.core.LinphoneCore.LogCollectionUploadState;
-import org.linphone.core.LinphoneCoreListenerBase;
-import org.linphone.mediastream.Log;
-
 import android.app.Fragment;
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -39,6 +34,11 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import org.linphone.core.LinphoneCore;
+import org.linphone.core.LinphoneCore.LogCollectionUploadState;
+import org.linphone.core.LinphoneCoreListenerBase;
+import org.linphone.mediastream.Log;
 
 /**
  * @author Sylvain Berfini
@@ -61,7 +61,7 @@ public class AboutFragment extends Fragment implements OnClickListener {
 		try {
 			aboutVersion.setText(String.format(getString(R.string.about_version), getActivity().getPackageManager().getPackageInfo(getActivity().getPackageName(), 0).versionName));
 		} catch (NameNotFoundException e) {
-			Log.e(e, "cannot get version name");
+			Log.e(e, "cannot get version name无法获得版本名称");
 		}
 
 		cancel = (ImageView) view.findViewById(R.id.cancel);
