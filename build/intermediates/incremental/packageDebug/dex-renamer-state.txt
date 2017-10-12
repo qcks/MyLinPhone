@@ -1,7 +1,0 @@
-#Thu Oct 12 14:47:40 CST 2017
-base.0=G\:\\LinPhone\\Linphone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3ee2e4893e8a1c298ae4736f4a9c009bee92048d
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=G\:\\LinPhone\\Linphone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_729bef8ec7177154e657f3836dbcf287a0e67f51\\classes.dex
-base.1=G\:\\LinPhone\\Linphone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_729bef8ec7177154e657f3836dbcf287a0e67f51
-file.0=G\:\\LinPhone\\Linphone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3ee2e4893e8a1c298ae4736f4a9c009bee92048d\\classes.dex
